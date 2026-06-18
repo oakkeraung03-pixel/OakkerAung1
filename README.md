@@ -1,54 +1,59 @@
 <div align="center">
-  <!-- Header Section -->
-  <h1 align="center" style="font-size: 40px; color: #4A90E2;">Oakker Aung</h1>
-  <h3 align="center">IT Professional | Software Developer</h3>
-  <p align="center">
-    <i>"Transforming complex problems into elegant digital solutions."</i>
-  </p>
+  <h1 align="center">Hi, I'm Oakker Aung 👋</h1>
+  <p align="center"><b>IT Fresher | Software Developer</b></p>
+  <p align="center"><i>Turning code into creative solutions.</i></p>
+  
+  <br>
+
+  <!-- About Section -->
+  <div align="left" style="max-width: 800px; margin: auto; background: #fdfdfd; padding: 25px; border-radius: 15px; border: 1px solid #e1e4e8;">
+    <h3>📌 About Me</h3>
+    <p>
+      An ambitious <b>IT Fresher</b> driven by a passion for full-stack development and enterprise solutions. 
+      Certified by <b>KMD Computer</b> and qualified through <b>ITPEC (IP, FE)</b>. Currently pursuing my studies at the 
+      <b>University of Distance Education (Myanmar)</b>. I enjoy crafting efficient software, balancing backend 
+      logic with clean user interfaces, and I am continuously expanding my skillset—currently focusing on 
+      <b>Java Spring Frameworks</b>.
+    </p>
+  </div>
 
   <br>
 
-  <!-- Quick Info Section -->
-  <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2;">
-    <h3 style="margin-top: 0;">🚀 About Me</h3>
-    <p>IT Fresher with a robust foundation in Software Development. Certified by KMD Computer and ITPEC (IP, FE) qualified. Currently expanding my knowledge base while pursuing my degree at the University of Distance Education (Myanmar). Fluent in Japanese (JLPT N4) and passionate about cross-platform development.</p>
+  <!-- Skills Section -->
+  <h3>💻 Technical Stack</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   </div>
-</div>
 
-<br>
+  <br>
 
-<!-- Skills Section with Badges -->
-<h2 align="left">💻 Technical Expertise</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+  <!-- Projects Section -->
+  <h3>🚀 Key Projects</h3>
+  <div align="left" style="max-width: 800px; margin: auto;">
+    <ul>
+      <li><b>OneFate (Dating & Relationship Journey)</b> – PHP/MySQL based application.</li>
+      <li><b>Multi-Vendor Marketplace</b> – Enterprise solution built with <b>J2EE</b>.</li>
+      <li><b>Hospital Management System</b> – Robust desktop system using <b>J2SE</b>.</li>
+      <li><b>BAYDIN SAYAR</b> – Interactive web application using HTML/CSS/JS.</li>
+    </ul>
+  </div>
 
-<br>
+  <br>
 
-<!-- Projects Section -->
-<h2 align="left">🛠 Featured Projects</h2>
-<div align="left">
-  <ul>
-    <li><strong>OneFate</strong> (Dating & Relationship Journey) – <i>PHP, MySQL</i></li>
-    <li><strong>Multi Vendor Marketplace</strong> – <i>J2EE (Enterprise Java)</i></li>
-    <li><strong>Hospital Management System</strong> – <i>J2SE (Desktop Application)</i></li>
-    <li><strong>BAYDIN SAYAR</strong> – <i>HTML, CSS, JavaScript</i></li>
-  </ul>
-</div>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <hr>
-  <p align="center"><b>Certified Japanese Language Learner (N4) | Lifelong Learner</b></p>
-  <p align="center">
-    <a href="mailto:your-email@gmail.com">Email Me</a> | 
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-  </p>
+  <!-- Contact Section -->
+  <h3>📫 Let's Connect</h3>
+  <div align="center">
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://tiktok.com/@yourprofile"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  </div>
 </div>
