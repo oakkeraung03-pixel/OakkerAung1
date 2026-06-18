@@ -1,13 +1,13 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Oakker Aung 👋</h1>
+  <h1 align="center" style="color: #61dafb;">Hi, I'm Oakker Aung 👋</h1>
   <p align="center"><b>IT Fresher | Software Developer</b></p>
   <p align="center"><i>Turning code into creative solutions.</i></p>
   
   <br>
 
   <!-- About Section -->
-  <div align="left" style="max-width: 800px; margin: auto; background: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;">
-    <h3 style="color: #ffa500;">📌 About Me</h3>
+  <div align="left" style="max-width: 800px; margin: auto; background: #161b22; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;">
+    <h3 style="color: #ff7b72;">📌 About Me</h3>
     <p>
       An ambitious <b>IT Fresher</b> driven by a passion for full-stack development and enterprise solutions. 
       Certified by <b>KMD Computer</b> and qualified through <b>ITPEC (IP, FE)</b>. Currently pursuing my studies at the 
@@ -20,17 +20,17 @@
   <br>
 
   <!-- Language Section -->
-  <h3 style="color: #58a6ff;">🌐 Languages</h3>
+  <h3>🌐 Languages</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Burmese-Native-2ea043?style=for-the-badge&logo=google-translate&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Japanese-JLPT_N4-005cc5?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/English-Reading_&_Writing-d29922?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Burmese-Native-2ea043?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Japanese-JLPT_N4-0969da?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/English-Reading_&_Writing-d29922?style=for-the-badge"/>
   </div>
 
   <br>
 
   <!-- Skills Section -->
-  <h3 style="color: #ff7b72;">💻 Technical Stack</h3>
+  <h3 style="color: #79c0ff;">💻 Technical Stack</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -45,7 +45,7 @@
   <br>
 
   <!-- Projects Section -->
-  <h3 style="color: #a371f7;">🚀 Key Projects</h3>
+  <h3 style="color: #d2a8ff;">🚀 Key Projects</h3>
   <div align="left" style="max-width: 800px; margin: auto; color: #8b949e;">
     <ul>
       <li><b>OneFate (Dating & Relationship Journey)</b> – PHP/MySQL based application.</li>
