@@ -6,8 +6,8 @@
   <br>
 
   <!-- About Section -->
-  <div align="left" style="max-width: 800px; margin: auto; background: #fdfdfd; padding: 25px; border-radius: 15px; border: 1px solid #e1e4e8;">
-    <h3>📌 About Me</h3>
+  <div align="left" style="max-width: 800px; margin: auto; background: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;">
+    <h3 style="color: #ffa500;">📌 About Me</h3>
     <p>
       An ambitious <b>IT Fresher</b> driven by a passion for full-stack development and enterprise solutions. 
       Certified by <b>KMD Computer</b> and qualified through <b>ITPEC (IP, FE)</b>. Currently pursuing my studies at the 
@@ -20,19 +20,19 @@
   <br>
 
   <!-- Language Section -->
-  <h3>🌐 Languages</h3>
+  <h3 style="color: #58a6ff;">🌐 Languages</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Burmese-Native-green?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Japanese-JLPT_N4-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/English-Professional_Working-Proficiency-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Burmese-Native-2ea043?style=for-the-badge&logo=google-translate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Japanese-JLPT_N4-005cc5?style=for-the-badge&logo=nintendo-switch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/English-Reading_&_Writing-d29922?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </div>
 
   <br>
 
   <!-- Skills Section -->
-  <h3>💻 Technical Stack</h3>
+  <h3 style="color: #ff7b72;">💻 Technical Stack</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -45,8 +45,8 @@
   <br>
 
   <!-- Projects Section -->
-  <h3>🚀 Key Projects</h3>
-  <div align="left" style="max-width: 800px; margin: auto;">
+  <h3 style="color: #a371f7;">🚀 Key Projects</h3>
+  <div align="left" style="max-width: 800px; margin: auto; color: #8b949e;">
     <ul>
       <li><b>OneFate (Dating & Relationship Journey)</b> – PHP/MySQL based application.</li>
       <li><b>Multi-Vendor Marketplace</b> – Enterprise solution built with <b>J2EE</b>.</li>
@@ -58,12 +58,12 @@
   <br>
 
   <!-- Contact Section -->
-  <h3>📫 Let's Connect</h3>
+  <h3 style="color: #3fb950;">📫 Let's Connect</h3>
   <div align="center">
     <a href="mailto:oakkeraung03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/oakker-aung-5b561034b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/oakker-aung-5b561034b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/OakkerAung"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.facebook.com/share/18mjV17tR9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.tiktok.com/@oakker.aung01?_r=1&_t=ZS-97IwQ9LhCy4"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+    <a href="https://www.tiktok.com/@oakker.aung01"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   </div>
 </div>
