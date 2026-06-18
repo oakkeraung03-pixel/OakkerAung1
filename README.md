@@ -1,13 +1,48 @@
-👨‍💻 Oakker AungIT Fresher | Software Development Student | Aspiring Developer🚀 About MeI am an aspiring IT Professional with a strong foundation in software development and a passion for building scalable, user-centric applications. Currently pursuing my degree in Myanmar Major (Distance Learning), I am dedicated to bridging the gap between theoretical knowledge and practical execution.Education: Currently studying at university (Distance Education).Professional Certification: ITPEC IP & FE Certified.Training: Proud graduate of KMD Computer's professional programs.Languages: Burmese (Native), Japanese (N4 Level), English (A2).Goal: To solve complex problems through clean, efficient, and reliable code.🛠 Tech StackCategoryTechnologiesLanguagesJava, PHP, JavaScriptFrameworks/ToolsJ2SE, J2EE, Spring FrameworkFrontendHTML5, CSS3DatabaseMySQLEnvironmentXAMPP💻 Featured ProjectsJava// 1. NexGen Multi-Vendor Marketplace
-// Tech: J2EE, Spring Framework
-// Description: An enterprise-level e-commerce solution facilitating multi-vendor operations.
-Java// 2. Hospital Management System
-// Tech: J2SE
-// Description: A robust desktop application for streamlining hospital administration and patient data management.
-PHP// 3. OneFate (Dating & Relationship Journey)
-// Tech: PHP, MySQL
-// Description: A feature-rich application designed to manage and document relationship journeys.
-JavaScript// 4. BAYDIN SAYAR
-// Tech: HTML, CSS, JavaScript
-// Description: An interactive web-based application focused on cultural astrology services.
-📬 Get In TouchI am always open to discussing new opportunities, collaborations, or tech-related topics. Feel free to reach out!Email: [Your Email Address]LinkedIn: [Link to your LinkedIn Profile]Portfolio: [Link to your Portfolio]
+<div align="center">
+  <h1 style="color: #2c3e50;">Oakker Aung</h1>
+  <p><i>Building robust solutions with a passion for IT & Software Development</i></p>
+
+  <br>
+
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>💼 Professional Profile</h3>
+        <p>
+          <b>IT Professional | ITPEC (IP, FE) Certified</b><br>
+          KMD Computer Certified Developer<br>
+          Currently pursuing degree at UDE (Major: Myanmar)
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 Skills</h3>
+        <p>
+          <b>Web:</b> HTML5, CSS3, JavaScript, PHP, MySQL<br>
+          <b>Desktop/Enterprise:</b> J2SE, J2EE, XAMPP<br>
+          <b>Languages:</b> Japanese (JLPT N4)
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h2 style="color: #e67e22;">🚀 Featured Projects</h2>
+</div>
+
+<div align="left">
+  <ul>
+    <li><b>OneFate (Dating & Relationship Journey)</b> - Built with PHP/MySQL.</li>
+    <li><b>Multi Vendor Marketplace</b> - Scalable platform using J2EE.</li>
+    <li><b>Hospital Management System</b> - Desktop application powered by J2SE.</li>
+    <li><b>BAYDIN SAYAR</b> - Interactive web app using HTML, CSS, & JS.</li>
+  </ul>
+</div>
+
+<br>
+
+<div align="center">
+  <hr>
+  <p><i>"Always learning, always coding."</i></p>
+  <a href="mailto:your-email@example.com">✉️ Contact Me</a>
+</div>
