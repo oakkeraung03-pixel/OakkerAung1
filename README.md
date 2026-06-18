@@ -24,7 +24,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Burmese-Native-green?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Japanese-JLPT_N4-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/English-Professional_Working-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/English-Professional_Working-Proficiency-orange?style=for-the-badge"/>
   </div>
 
   <br>
